@@ -136,3 +136,13 @@ GitHub.sublime-settings
 !.vscode/launch.json 
 !.vscode/extensions.json 
 .history
+
+
+code/web/static/admin
+code/web/static/baton
+code/web/static/django_extensions
+code/web/static/rest_framework
+
+.env.dev
+.env.prod
+.env.prod.db
